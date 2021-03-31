@@ -1,0 +1,8 @@
+{
+  "name": "api-and-microservices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:cristhiantorres/api-and-microservices.git",
+  "author": "Cristhian Torres <cristhiantorres95@gmail.com>",
+  "license": "MIT"
+}
